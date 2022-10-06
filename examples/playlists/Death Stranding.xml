@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-10-04T06:34:36Z</date>
+	<key>Application Version</key><string>12.12.5.8</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/shuli/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>798F690A8830DF89</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7424</key>
+		<dict>
+			<key>Track ID</key><integer>7424</integer>
+			<key>Name</key><string>Path, Vol. 2 (feat. Sandra Nasic)</string>
+			<key>Artist</key><string>Apocalyptica</string>
+			<key>Album Artist</key><string>Apocalyptica</string>
+			<key>Composer</key><string>Eicca Toppinen &#38; Sandra Nasic</string>
+			<key>Album</key><string>Cult</string>
+			<key>Genre</key><string>Тяжелый рок</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>7892009</integer>
+			<key>Total Time</key><integer>205080</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2019-05-29T21:53:46Z</date>
+			<key>Date Added</key><date>2019-05-29T21:53:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3733222152</integer>
+			<key>Play Date UTC</key><date>2022-04-19T11:09:12Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-11-28T07:08:34Z</date>
+			<key>Release Date</key><date>2001-04-09T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Cult</string>
+			<key>Sort Artist</key><string>Apocalyptica</string>
+			<key>Sort Name</key><string>Path, Vol. 2 (feat. Sandra Nasic)</string>
+			<key>Persistent ID</key><string>DCD3639BC762EEDC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7996</key>
+		<dict>
+			<key>Track ID</key><integer>7996</integer>
+			<key>Name</key><string>Yellow Box</string>
+			<key>Artist</key><string>The Neighbourhood</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Jesse, Dylan Bauld, Michael Margott, Danny Parra, Jeremiah Freedman, Brandon Fried &#38; Zachary Abels</string>
+			<key>Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>6320614</integer>
+			<key>Total Time</key><integer>182758</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-07T18:26:40Z</date>
+			<key>Date Added</key><date>2019-11-07T18:26:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3728237973</integer>
+			<key>Play Date UTC</key><date>2022-02-20T18:39:33Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2020-03-03T06:36:36Z</date>
+			<key>Release Date</key><date>2019-10-12T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Sort Artist</key><string>The Neighbourhood</string>
+			<key>Sort Name</key><string>Yellow Box</string>
+			<key>Persistent ID</key><string>28B7562ED10329D0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7998</key>
+		<dict>
+			<key>Track ID</key><integer>7998</integer>
+			<key>Name</key><string>Death Stranding</string>
+			<key>Artist</key><string>CHVRCHES</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Iain Cook, Martin Doherty &#38; Lauren Mayberry</string>
+			<key>Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>11025418</integer>
+			<key>Total Time</key><integer>318658</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-07T18:26:40Z</date>
+			<key>Date Added</key><date>2019-11-07T18:26:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3734875877</integer>
+			<key>Play Date UTC</key><date>2022-05-08T14:31:17Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-12-05T07:24:24Z</date>
+			<key>Release Date</key><date>2019-09-30T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Sort Artist</key><string>CHVRCHES</string>
+			<key>Sort Name</key><string>Death Stranding</string>
+			<key>Persistent ID</key><string>0C3B754412E497B0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8000</key>
+		<dict>
+			<key>Track ID</key><integer>8000</integer>
+			<key>Name</key><string>Ghost</string>
+			<key>Artist</key><string>Au/Ra x Alan Walker</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Alan Walker, Jamie Aura Stenzel, Andrew Frampton, Max Farrar, Marcus Ambekk, Colton Avery &#38; Fredrick Borch Olsen</string>
+			<key>Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>6350180</integer>
+			<key>Total Time</key><integer>178682</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-07T18:26:40Z</date>
+			<key>Date Added</key><date>2019-11-07T18:26:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>69</integer>
+			<key>Play Date</key><integer>3733477885</integer>
+			<key>Play Date UTC</key><date>2022-04-22T10:11:25Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-12-18T21:07:09Z</date>
+			<key>Release Date</key><date>2019-11-07T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Sort Artist</key><string>Au/Ra x Alan Walker</string>
+			<key>Sort Name</key><string>Ghost</string>
+			<key>Persistent ID</key><string>99FFB21B67088557</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8002</key>
+		<dict>
+			<key>Track ID</key><integer>8002</integer>
+			<key>Name</key><string>Trigger</string>
+			<key>Artist</key><string>Major Lazer &#38; Khalid</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Khalid Robinson, Thomas Pentz, Philip Meckseper, Andrew Wyatt, Jasper Helderman &#38; Bas van Daalen</string>
+			<key>Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Genre</key><string>R&#38;B/Soul</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>6171868</integer>
+			<key>Total Time</key><integer>171997</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-07T18:26:40Z</date>
+			<key>Date Added</key><date>2019-11-07T18:26:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>56</integer>
+			<key>Play Date</key><integer>3736090538</integer>
+			<key>Play Date UTC</key><date>2022-05-22T15:55:38Z</date>
+			<key>Skip Count</key><integer>8</integer>
+			<key>Skip Date</key><date>2020-08-12T05:15:06Z</date>
+			<key>Release Date</key><date>2019-11-07T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Sort Artist</key><string>Major Lazer &#38; Khalid</string>
+			<key>Sort Name</key><string>Trigger</string>
+			<key>Persistent ID</key><string>FEB6D42346CDA6D8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8004</key>
+		<dict>
+			<key>Track ID</key><integer>8004</integer>
+			<key>Name</key><string>Sing To Me</string>
+			<key>Artist</key><string>MISSIO</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Matthew Brue, David Butler, Dwight A Baker, busbee &#38; Justin Tranter</string>
+			<key>Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>6924307</integer>
+			<key>Total Time</key><integer>189904</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-07T18:26:40Z</date>
+			<key>Date Added</key><date>2019-11-07T18:26:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>74</integer>
+			<key>Play Date</key><integer>3733518421</integer>
+			<key>Play Date UTC</key><date>2022-04-22T21:27:01Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-11-07T20:43:21Z</date>
+			<key>Release Date</key><date>2019-11-07T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Sort Artist</key><string>MISSIO</string>
+			<key>Sort Name</key><string>Sing To Me</string>
+			<key>Persistent ID</key><string>41D0E2C6E9A1329F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8006</key>
+		<dict>
+			<key>Track ID</key><integer>8006</integer>
+			<key>Name</key><string>Born In the Slumber</string>
+			<key>Artist</key><string>flora cash</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Cole Randall &#38; Shpresa Lleshaj-Randall</string>
+			<key>Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>7403758</integer>
+			<key>Total Time</key><integer>212838</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-07T18:26:40Z</date>
+			<key>Date Added</key><date>2019-11-07T18:26:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>67</integer>
+			<key>Play Date</key><integer>3746275724</integer>
+			<key>Play Date UTC</key><date>2022-09-17T13:08:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-01-08T18:27:43Z</date>
+			<key>Release Date</key><date>2019-11-07T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Sort Artist</key><string>flora cash</string>
+			<key>Sort Name</key><string>Born In the Slumber</string>
+			<key>Persistent ID</key><string>C4FFB5F65B3EABCB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8008</key>
+		<dict>
+			<key>Track ID</key><integer>8008</integer>
+			<key>Name</key><string>Ludens</string>
+			<key>Artist</key><string>Bring Me The Horizon</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Oliver Sykes &#38; Jordan Fish</string>
+			<key>Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>10232213</integer>
+			<key>Total Time</key><integer>278180</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-07T18:26:40Z</date>
+			<key>Date Added</key><date>2019-11-07T18:26:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3715028174</integer>
+			<key>Play Date UTC</key><date>2021-09-20T21:16:14Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2022-06-06T13:59:01Z</date>
+			<key>Release Date</key><date>2019-11-07T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Sort Artist</key><string>Bring Me The Horizon</string>
+			<key>Sort Name</key><string>Ludens</string>
+			<key>Persistent ID</key><string>4A098AB812A6A4DB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8010</key>
+		<dict>
+			<key>Track ID</key><integer>8010</integer>
+			<key>Name</key><string>Meanwhile... In Genova</string>
+			<key>Artist</key><string>THE S.L.P.</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Sergio Pizzorno</string>
+			<key>Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>7339884</integer>
+			<key>Total Time</key><integer>206067</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-07T18:26:40Z</date>
+			<key>Date Added</key><date>2019-11-07T18:26:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>105</integer>
+			<key>Play Date</key><integer>3746097510</integer>
+			<key>Play Date UTC</key><date>2022-09-15T11:38:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-06-21T08:51:15Z</date>
+			<key>Release Date</key><date>2019-08-30T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>DEATH STRANDING: Timefall (Original Music from the World of Death Stranding)</string>
+			<key>Sort Artist</key><string>THE S.L.P.</string>
+			<key>Sort Name</key><string>Meanwhile... In Genova</string>
+			<key>Persistent ID</key><string>C576993915A1B9C0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8012</key>
+		<dict>
+			<key>Track ID</key><integer>8012</integer>
+			<key>Name</key><string>Don't Be So Serious</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Ryan Joseph Karazija, Andrew Scheps &#38; Mike Lindsay</string>
+			<key>Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>13823050</integer>
+			<key>Total Time</key><integer>372867</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-11-08T00:50:48Z</date>
+			<key>Date Added</key><date>2019-11-08T00:50:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3737811087</integer>
+			<key>Play Date UTC</key><date>2022-06-11T13:51:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-02-15T19:08:02Z</date>
+			<key>Release Date</key><date>2017-04-05T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>Don't Be So Serious</string>
+			<key>Persistent ID</key><string>9F215FDE83106851</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8014</key>
+		<dict>
+			<key>Track ID</key><integer>8014</integer>
+			<key>Name</key><string>Bones (feat. Jofridur)</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Ryan Joseph Karazija, Andrew Scheps &#38; Mike Lindsay</string>
+			<key>Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>6182369</integer>
+			<key>Total Time</key><integer>170107</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2019-11-08T00:52:13Z</date>
+			<key>Date Added</key><date>2019-11-08T00:52:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>47</integer>
+			<key>Play Date</key><integer>3728236998</integer>
+			<key>Play Date UTC</key><date>2022-02-20T18:23:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-19T18:00:55Z</date>
+			<key>Release Date</key><date>2020-01-31T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>Bones (feat. Jofridur)</string>
+			<key>Persistent ID</key><string>B4DFE7BF53716464</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8016</key>
+		<dict>
+			<key>Track ID</key><integer>8016</integer>
+			<key>Name</key><string>Poznan</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Ryan Joseph Karazija, Andrew Scheps &#38; Mike Lindsay</string>
+			<key>Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>5060056</integer>
+			<key>Total Time</key><integer>123413</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-11-08T00:52:23Z</date>
+			<key>Date Added</key><date>2019-11-08T00:52:23Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3728658104</integer>
+			<key>Play Date UTC</key><date>2022-02-25T15:21:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-09-20T20:40:12Z</date>
+			<key>Release Date</key><date>2017-04-05T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>Poznan</string>
+			<key>Persistent ID</key><string>14555E5F5484B006</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8020</key>
+		<dict>
+			<key>Track ID</key><integer>8020</integer>
+			<key>Name</key><string>Give Up</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Low Roar</string>
+			<key>Album</key><string>Low Roar</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>6909042</integer>
+			<key>Total Time</key><integer>186600</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-11-10T17:23:51Z</date>
+			<key>Date Added</key><date>2019-11-10T17:23:51Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>57</integer>
+			<key>Play Date</key><integer>3728236455</integer>
+			<key>Play Date UTC</key><date>2022-02-20T18:14:15Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2022-08-26T13:11:15Z</date>
+			<key>Release Date</key><date>2011-11-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Low Roar</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>Give Up</string>
+			<key>Persistent ID</key><string>A9633E90F3BC95BA</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8022</key>
+		<dict>
+			<key>Track ID</key><integer>8022</integer>
+			<key>Name</key><string>Easy Way Out</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Ryan Joseph Karazija &#38; Andrew Scheps</string>
+			<key>Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>10569513</integer>
+			<key>Total Time</key><integer>288280</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2019-11-11T06:40:40Z</date>
+			<key>Date Added</key><date>2019-11-11T06:40:40Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3744978381</integer>
+			<key>Play Date UTC</key><date>2022-09-02T12:46:21Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2020-09-27T19:01:10Z</date>
+			<key>Release Date</key><date>2020-01-31T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>Easy Way Out</string>
+			<key>Persistent ID</key><string>3D4DEE3FD8120B3B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8024</key>
+		<dict>
+			<key>Track ID</key><integer>8024</integer>
+			<key>Name</key><string>I'm Leaving</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Ryan Joseph Karazija &#38; Andrew Scheps</string>
+			<key>Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>12310031</integer>
+			<key>Total Time</key><integer>334000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2019-11-18T00:10:56Z</date>
+			<key>Date Added</key><date>2019-11-18T00:10:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3728233672</integer>
+			<key>Play Date UTC</key><date>2022-02-20T17:27:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-05T07:13:29Z</date>
+			<key>Release Date</key><date>2020-01-31T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>I'm Leaving</string>
+			<key>Persistent ID</key><string>CA8B9272B86D29E8</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8026</key>
+		<dict>
+			<key>Track ID</key><integer>8026</integer>
+			<key>Name</key><string>Waiting (10 Years)</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Ryan Joseph Karazija, Andrew Scheps &#38; Mike Lindsay</string>
+			<key>Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>8781875</integer>
+			<key>Total Time</key><integer>246227</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2019-11-18T00:11:18Z</date>
+			<key>Date Added</key><date>2019-11-18T00:11:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3736251665</integer>
+			<key>Play Date UTC</key><date>2022-05-24T12:41:05Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2021-12-01T08:04:36Z</date>
+			<key>Release Date</key><date>2020-01-31T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>Waiting (10 Years)</string>
+			<key>Persistent ID</key><string>21A23D298CD3F209</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8028</key>
+		<dict>
+			<key>Track ID</key><integer>8028</integer>
+			<key>Name</key><string>Gosia</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Low Roar</string>
+			<key>Composer</key><string>Ryan Joseph Karazija &#38; Andrew Scheps</string>
+			<key>Album</key><string>Once In a Long, Long While...</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>9174155</integer>
+			<key>Total Time</key><integer>253340</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-11-18T00:11:55Z</date>
+			<key>Date Added</key><date>2019-11-18T00:11:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3728234170</integer>
+			<key>Play Date UTC</key><date>2022-02-20T17:36:10Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-12-05T07:45:49Z</date>
+			<key>Release Date</key><date>2017-04-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Once In a Long, Long While...</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>Gosia</string>
+			<key>Persistent ID</key><string>88B18310C841A840</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8030</key>
+		<dict>
+			<key>Track ID</key><integer>8030</integer>
+			<key>Name</key><string>Without You</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Low Roar</string>
+			<key>Composer</key><string>Ryan Joseph Karazija &#38; Andrew Scheps</string>
+			<key>Album</key><string>Once In a Long, Long While...</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>8629768</integer>
+			<key>Total Time</key><integer>234075</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2019-11-18T00:12:29Z</date>
+			<key>Date Added</key><date>2019-11-18T00:12:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3739517292</integer>
+			<key>Play Date UTC</key><date>2022-07-01T07:48:12Z</date>
+			<key>Release Date</key><date>2017-04-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Once In a Long, Long While...</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>Without You</string>
+			<key>Persistent ID</key><string>488E1B453F4F2E6B</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8032</key>
+		<dict>
+			<key>Track ID</key><integer>8032</integer>
+			<key>Name</key><string>Because We Have To</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Low Roar</string>
+			<key>Album</key><string>Low Roar</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>8633320</integer>
+			<key>Total Time</key><integer>235800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2019-11-18T00:13:02Z</date>
+			<key>Date Added</key><date>2019-11-18T00:13:02Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3739379966</integer>
+			<key>Play Date UTC</key><date>2022-06-29T17:39:26Z</date>
+			<key>Release Date</key><date>2011-11-01T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Low Roar</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>Because We Have To</string>
+			<key>Persistent ID</key><string>DF81DE15BFF18D2F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8034</key>
+		<dict>
+			<key>Track ID</key><integer>8034</integer>
+			<key>Name</key><string>Breathe In</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Low Roar</string>
+			<key>Composer</key><string>Ryan Joseph Karazija &#38; Andrew Scheps</string>
+			<key>Album</key><string>0</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Аудиофайл AAC</string>
+			<key>Size</key><integer>16271531</integer>
+			<key>Total Time</key><integer>454653</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2019-11-18T00:14:04Z</date>
+			<key>Date Added</key><date>2019-11-18T00:14:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3728235095</integer>
+			<key>Play Date UTC</key><date>2022-02-20T17:51:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2019-11-25T08:24:43Z</date>
+			<key>Release Date</key><date>2014-07-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>0</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>Breathe In</string>
+			<key>Persistent ID</key><string>D3B90DEB3D08D3A4</string>
+			<key>Track Type</key><string>Remote</string>
+		</dict>
+		<key>8036</key>
+		<dict>
+			<key>Track ID</key><integer>8036</integer>
+			<key>Name</key><string>The Machine</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Low Roar</string>
+			<key>Composer</key><string>Ryan Karazija, Mike Lindsay &#38; Andrew Scheps</string>
+			<key>Album</key><string>ross.</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>11948635</integer>
+			<key>Total Time</key><integer>337660</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2019-11-18T00:15:07Z</date>
+			<key>Date Added</key><date>2019-11-18T00:15:07Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3728235433</integer>
+			<key>Play Date UTC</key><date>2022-02-20T17:57:13Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-08-05T10:53:32Z</date>
+			<key>Release Date</key><date>2019-11-08T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>ross.</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>The Machine</string>
+			<key>Persistent ID</key><string>7F02D32912C58BB3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>8038</key>
+		<dict>
+			<key>Track ID</key><integer>8038</integer>
+			<key>Name</key><string>Anything You Need</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Ryan Joseph Karazija &#38; Andrew Scheps</string>
+			<key>Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>7213581</integer>
+			<key>Total Time</key><integer>192373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2019-11-18T00:16:12Z</date>
+			<key>Date Added</key><date>2019-11-18T00:16:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3737644666</integer>
+			<key>Play Date UTC</key><date>2022-06-09T15:37:46Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-01-20T15:55:56Z</date>
+			<key>Release Date</key><date>2020-01-31T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>Anything You Need</string>
+			<key>Persistent ID</key><string>2F4C695D5496CCE0</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>17598</key>
+		<dict>
+			<key>Track ID</key><integer>17598</integer>
+			<key>Name</key><string>I'll Keep Coming</string>
+			<key>Artist</key><string>Low Roar</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Ryan Joseph Karazija &#38; Andrew Scheps</string>
+			<key>Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>12781487</integer>
+			<key>Total Time</key><integer>353813</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>22</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2016-06-15T05:02:42Z</date>
+			<key>Date Added</key><date>2016-06-15T05:02:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>58</integer>
+			<key>Play Date</key><integer>3747326227</integer>
+			<key>Play Date UTC</key><date>2022-09-29T16:57:07Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2019-12-05T07:42:28Z</date>
+			<key>Release Date</key><date>2014-07-08T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Death Stranding (Songs from the Video Game)</string>
+			<key>Sort Artist</key><string>Low Roar</string>
+			<key>Sort Name</key><string>I'll Keep Coming</string>
+			<key>Persistent ID</key><string>59048FEB1959D445</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>23324</key>
+		<dict>
+			<key>Track ID</key><integer>23324</integer>
+			<key>Name</key><string>Asylums for the Feeling feat. Leila Adu</string>
+			<key>Artist</key><string>SILENT POETS</string>
+			<key>Album Artist</key><string>SILENT POETS</string>
+			<key>Composer</key><string>Shimoda Michiharu &#38; Leila Adu</string>
+			<key>Album</key><string>Dawn</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>14958053</integer>
+			<key>Total Time</key><integer>429251</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2018-06-12T21:32:20Z</date>
+			<key>Date Added</key><date>2018-06-12T21:32:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>145</integer>
+			<key>Play Date</key><integer>3736552497</integer>
+			<key>Play Date UTC</key><date>2022-05-28T00:14:57Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2022-06-21T05:59:34Z</date>
+			<key>Release Date</key><date>2018-02-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Dawn</string>
+			<key>Sort Artist</key><string>SILENT POETS</string>
+			<key>Sort Name</key><string>Asylums for the Feeling feat. Leila Adu</string>
+			<key>Persistent ID</key><string>371980CC46FAB5F9</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Death Stranding</string>
+			<key>Description</key><string>But at least we’ll have hope...</string>
+			<key>Playlist ID</key><integer>40260</integer>
+			<key>Playlist Persistent ID</key><string>0EF5C676143EA869</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>8022</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17598</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8020</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8012</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8016</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8002</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8000</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7998</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7996</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8010</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8008</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8006</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8004</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7424</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8026</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8028</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8030</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8032</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8034</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8036</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8038</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

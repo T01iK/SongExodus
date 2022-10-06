@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-10-04T09:52:55Z</date>
+	<key>Application Version</key><string>12.12.5.8</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/shuli/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>798F690A8830DF89</string>
+	<key>Tracks</key>
+	<dict>
+		<key>10310</key>
+		<dict>
+			<key>Track ID</key><integer>10310</integer>
+			<key>Name</key><string>Wrecking Ball</string>
+			<key>Artist</key><string>Miley Cyrus</string>
+			<key>Composer</key><string>Miley Cyrus</string>
+			<key>Album</key><string>Bangerz (Deluxe Version)</string>
+			<key>Kind</key><string>Аудиофайл MPEG</string>
+			<key>Size</key><integer>5363471</integer>
+			<key>Total Time</key><integer>223346</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-10-05T15:01:39Z</date>
+			<key>Date Added</key><date>2014-02-02T15:07:33Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3729833471</integer>
+			<key>Play Date UTC</key><date>2022-03-11T05:51:11Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Normalization</key><integer>5596</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4DBA07E184CC66F4</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>TestSingle</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>52080</integer>
+			<key>Playlist Persistent ID</key><string>0C58D22AD0D77B2D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10310</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

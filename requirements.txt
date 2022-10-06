@@ -1,0 +1,2 @@
+strsimpy
+spotipy

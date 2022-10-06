@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-10-04T06:34:22Z</date>
+	<key>Application Version</key><string>12.12.5.8</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/shuli/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>798F690A8830DF89</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7418</key>
+		<dict>
+			<key>Track ID</key><integer>7418</integer>
+			<key>Name</key><string>Suite Bergamasque, Claire de Lune, No. 3</string>
+			<key>Artist</key><string>Isao Tomita</string>
+			<key>Album Artist</key><string>David Holmes</string>
+			<key>Composer</key><string>Claude Debussy &#38; Isao Tomita</string>
+			<key>Album</key><string>Ocean's Thirteen (Music from the Motion Picture)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>12093288</integer>
+			<key>Total Time</key><integer>351027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>22</integer>
+			<key>Year</key><integer>1974</integer>
+			<key>Date Modified</key><date>2019-05-26T16:42:29Z</date>
+			<key>Date Added</key><date>2019-05-26T16:42:29Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3710234381</integer>
+			<key>Play Date UTC</key><date>2021-07-27T09:39:41Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-07-29T21:51:55Z</date>
+			<key>Release Date</key><date>1974-01-01T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Ocean's Thirteen (Music from the Motion Picture)</string>
+			<key>Sort Artist</key><string>Isao Tomita</string>
+			<key>Sort Name</key><string>Suite Bergamasque, Claire de Lune, No. 3</string>
+			<key>Persistent ID</key><string>0D4D373D23C32F39</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7420</key>
+		<dict>
+			<key>Track ID</key><integer>7420</integer>
+			<key>Name</key><string>Clair de Lune (Epic Trailer Version)</string>
+			<key>Artist</key><string>Alala</string>
+			<key>Album Artist</key><string>Alala</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Album</key><string>Clair de Lune (Epic Trailer Version) - Single</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>8116062</integer>
+			<key>Total Time</key><integer>217425</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-05-26T16:43:44Z</date>
+			<key>Date Added</key><date>2019-05-26T16:43:44Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3744655177</integer>
+			<key>Play Date UTC</key><date>2022-08-29T18:59:37Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-09-15T11:54:26Z</date>
+			<key>Release Date</key><date>2018-08-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Clair de Lune (Epic Trailer Version) - Single</string>
+			<key>Sort Artist</key><string>Alala</string>
+			<key>Sort Name</key><string>Clair de Lune (Epic Trailer Version)</string>
+			<key>Persistent ID</key><string>3C9F0D66F1B9F96E</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>7422</key>
+		<dict>
+			<key>Track ID</key><integer>7422</integer>
+			<key>Name</key><string>Clair de Lune (As Featured in the "Godzilla: King of the Monsters" Official Trailer)</string>
+			<key>Artist</key><string>Imagine Music</string>
+			<key>Album Artist</key><string>Imagine Music</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Album</key><string>Clair de Lune (As Featured of the "Godzilla: King of the Monsters" Official Trailer) - Single</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>5615721</integer>
+			<key>Total Time</key><integer>152500</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2019-05-26T16:45:46Z</date>
+			<key>Date Added</key><date>2019-05-26T16:45:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3738048235</integer>
+			<key>Play Date UTC</key><date>2022-06-14T07:43:55Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2019-05-27T13:52:19Z</date>
+			<key>Release Date</key><date>2018-04-13T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Clair de Lune (As Featured of the "Godzilla: King of the Monsters" Official Trailer) - Single</string>
+			<key>Sort Artist</key><string>Imagine Music</string>
+			<key>Sort Name</key><string>Clair de Lune (As Featured in the "Godzilla: King of the Monsters" Official Trailer)</string>
+			<key>Persistent ID</key><string>26384E6844E63D62</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>15114</key>
+		<dict>
+			<key>Track ID</key><integer>15114</integer>
+			<key>Name</key><string>Suite Bergamasque, L 75: Clair de Lune</string>
+			<key>Artist</key><string>Finghin Collins</string>
+			<key>Album Artist</key><string>London Philharmonic Orchestra</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Album</key><string>The 50 Greatest Pieces of Classical Music</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>10771008</integer>
+			<key>Total Time</key><integer>313879</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>50</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-07-17T11:13:46Z</date>
+			<key>Date Added</key><date>2015-06-07T20:29:06Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Play Count</key><integer>73</integer>
+			<key>Play Date</key><integer>3747496996</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:23:16Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2022-02-07T05:04:34Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Album Rating</key><integer>100</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Normalization</key><integer>1197</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>50 Greatest Pieces of Classical Music</string>
+			<key>Sort Artist</key><string>Finghin Collins</string>
+			<key>Sort Composer</key><string>Claude Debussy</string>
+			<key>Sort Name</key><string>Suite Bergamasque, L 75: Clair de Lune</string>
+			<key>Persistent ID</key><string>10F2576C790310C3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>23500</key>
+		<dict>
+			<key>Track ID</key><integer>23500</integer>
+			<key>Name</key><string>Clair de Lune, L. 75 No. 3</string>
+			<key>Artist</key><string>Филадельфийский оркестр &#38; Eugene Ormandy</string>
+			<key>Album Artist</key><string>Разные артисты</string>
+			<key>Composer</key><string>Claude Debussy</string>
+			<key>Album</key><string>Romance</string>
+			<key>Genre</key><string>Classical</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>10549111</integer>
+			<key>Total Time</key><integer>299253</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>30</integer>
+			<key>Year</key><integer>1989</integer>
+			<key>Date Modified</key><date>2018-08-25T21:30:50Z</date>
+			<key>Date Added</key><date>2018-08-25T21:30:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>39</integer>
+			<key>Play Date</key><integer>3740426788</integer>
+			<key>Play Date UTC</key><date>2022-07-11T20:26:28Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-07-11T17:50:58Z</date>
+			<key>Release Date</key><date>1989-08-04T12:00:00Z</date>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Romance</string>
+			<key>Sort Artist</key><string>Филадельфийский оркестр &#38; Eugene Ormandy</string>
+			<key>Sort Name</key><string>Clair de Lune, L. 75 No. 3</string>
+			<key>Persistent ID</key><string>C4017C0BB2E159AD</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Clair de Lune</string>
+			<key>Description</key><string>😌</string>
+			<key>Playlist ID</key><integer>40225</integer>
+			<key>Playlist Persistent ID</key><string>0BF44EFB937EDE4F</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7422</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7418</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>23500</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

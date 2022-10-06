@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-10-04T06:34:15Z</date>
+	<key>Application Version</key><string>12.12.5.8</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/shuli/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>798F690A8830DF89</string>
+	<key>Tracks</key>
+	<dict>
+		<key>22562</key>
+		<dict>
+			<key>Track ID</key><integer>22562</integer>
+			<key>Name</key><string>Blade Runner (Main Titles)</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Genre</key><string>Original Score</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>7974786</integer>
+			<key>Total Time</key><integer>222373</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2017-11-19T00:55:20Z</date>
+			<key>Date Added</key><date>2017-11-19T00:55:20Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>118</integer>
+			<key>Play Date</key><integer>3747454253</integer>
+			<key>Play Date UTC</key><date>2022-10-01T04:30:53Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-01-14T22:20:56Z</date>
+			<key>Release Date</key><date>1994-06-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Sort Artist</key><string>Vangelis</string>
+			<key>Sort Name</key><string>Blade Runner (Main Titles)</string>
+			<key>Persistent ID</key><string>EE3FAAF9D64666C3</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22564</key>
+		<dict>
+			<key>Track ID</key><integer>22564</integer>
+			<key>Name</key><string>Rachel's Song</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Genre</key><string>Original Score</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>9950690</integer>
+			<key>Total Time</key><integer>288000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2017-11-19T00:55:30Z</date>
+			<key>Date Added</key><date>2017-11-19T00:55:30Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>144</integer>
+			<key>Play Date</key><integer>3747454030</integer>
+			<key>Play Date UTC</key><date>2022-10-01T04:27:10Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-05-16T08:14:06Z</date>
+			<key>Release Date</key><date>1994-06-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Sort Artist</key><string>Vangelis</string>
+			<key>Sort Name</key><string>Rachel's Song</string>
+			<key>Persistent ID</key><string>03F218B49E27CF91</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22566</key>
+		<dict>
+			<key>Track ID</key><integer>22566</integer>
+			<key>Name</key><string>Blade Runner Blues</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Genre</key><string>Original Score</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>18078946</integer>
+			<key>Total Time</key><integer>534400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2017-11-19T00:55:36Z</date>
+			<key>Date Added</key><date>2017-11-19T00:55:36Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>129</integer>
+			<key>Play Date</key><integer>3747454826</integer>
+			<key>Play Date UTC</key><date>2022-10-01T04:40:26Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2021-05-10T16:15:15Z</date>
+			<key>Release Date</key><date>1994-06-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Sort Artist</key><string>Vangelis</string>
+			<key>Sort Name</key><string>Blade Runner Blues</string>
+			<key>Persistent ID</key><string>9125944D3B78D9AB</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22582</key>
+		<dict>
+			<key>Track ID</key><integer>22582</integer>
+			<key>Name</key><string>Blush Response</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Genre</key><string>Original Score</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>12020024</integer>
+			<key>Total Time</key><integer>346693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2017-11-30T03:53:57Z</date>
+			<key>Date Added</key><date>2017-11-30T03:53:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>90</integer>
+			<key>Play Date</key><integer>3747453697</integer>
+			<key>Play Date UTC</key><date>2022-10-01T04:21:37Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2020-08-04T10:23:17Z</date>
+			<key>Release Date</key><date>1994-06-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Sort Artist</key><string>Vangelis</string>
+			<key>Sort Name</key><string>Blush Response</string>
+			<key>Persistent ID</key><string>8A0F525BB57224B2</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22584</key>
+		<dict>
+			<key>Track ID</key><integer>22584</integer>
+			<key>Name</key><string>Memories of Green</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Genre</key><string>Original Score</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>10599345</integer>
+			<key>Total Time</key><integer>305027</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2017-11-30T03:54:57Z</date>
+			<key>Date Added</key><date>2017-11-30T03:54:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>102</integer>
+			<key>Play Date</key><integer>3747455145</integer>
+			<key>Play Date UTC</key><date>2022-10-01T04:45:45Z</date>
+			<key>Release Date</key><date>1994-06-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Sort Artist</key><string>Vangelis</string>
+			<key>Sort Name</key><string>Memories of Green</string>
+			<key>Persistent ID</key><string>23941B588C0201BF</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22586</key>
+		<dict>
+			<key>Track ID</key><integer>22586</integer>
+			<key>Name</key><string>Tears In Rain</string>
+			<key>Artist</key><string>Vangelis</string>
+			<key>Album Artist</key><string>Vangelis</string>
+			<key>Composer</key><string>Vangelis</string>
+			<key>Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Genre</key><string>Original Score</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>6370581</integer>
+			<key>Total Time</key><integer>180933</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2017-11-30T03:55:56Z</date>
+			<key>Date Added</key><date>2017-11-30T03:55:56Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>102</integer>
+			<key>Play Date</key><integer>3747469098</integer>
+			<key>Play Date UTC</key><date>2022-10-01T08:38:18Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2018-11-08T11:16:04Z</date>
+			<key>Release Date</key><date>1994-06-07T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blade Runner (Original Score from the Motion Picture)</string>
+			<key>Sort Artist</key><string>Vangelis</string>
+			<key>Sort Name</key><string>Tears In Rain</string>
+			<key>Persistent ID</key><string>9BC0DF2B586ABEA7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22742</key>
+		<dict>
+			<key>Track ID</key><integer>22742</integer>
+			<key>Name</key><string>Rain</string>
+			<key>Artist</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Album Artist</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Composer</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Album</key><string>Blade Runner 2049 (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>5384202</integer>
+			<key>Total Time</key><integer>146271</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-01-18T05:01:16Z</date>
+			<key>Date Added</key><date>2018-01-18T05:01:16Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>46</integer>
+			<key>Play Date</key><integer>3691724776</integer>
+			<key>Play Date UTC</key><date>2020-12-25T04:06:16Z</date>
+			<key>Release Date</key><date>2017-10-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blade Runner 2049 (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Sort Name</key><string>Rain</string>
+			<key>Persistent ID</key><string>728F690B4736D78B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22744</key>
+		<dict>
+			<key>Track ID</key><integer>22744</integer>
+			<key>Name</key><string>Mesa</string>
+			<key>Artist</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Album Artist</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Composer</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Album</key><string>Blade Runner 2049 (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>6833128</integer>
+			<key>Total Time</key><integer>190082</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-01-18T05:01:39Z</date>
+			<key>Date Added</key><date>2018-01-18T05:01:39Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3738305110</integer>
+			<key>Play Date UTC</key><date>2022-06-17T07:05:10Z</date>
+			<key>Release Date</key><date>2017-10-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blade Runner 2049 (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Sort Name</key><string>Mesa</string>
+			<key>Persistent ID</key><string>D35A1AFAC4B29B81</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+		<key>22748</key>
+		<dict>
+			<key>Track ID</key><integer>22748</integer>
+			<key>Name</key><string>Joi</string>
+			<key>Artist</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Album Artist</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Composer</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Album</key><string>Blade Runner 2049 (Original Motion Picture Soundtrack)</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Аудиофайл AAC из Apple Music</string>
+			<key>Size</key><integer>8431614</integer>
+			<key>Total Time</key><integer>231919</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>24</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2018-01-18T05:02:22Z</date>
+			<key>Date Added</key><date>2018-01-18T05:02:22Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>31</integer>
+			<key>Play Date</key><integer>3715616808</integer>
+			<key>Play Date UTC</key><date>2021-09-27T16:46:48Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-06-21T16:43:11Z</date>
+			<key>Release Date</key><date>2017-10-05T12:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Blade Runner 2049 (Original Motion Picture Soundtrack)</string>
+			<key>Sort Artist</key><string>Hans Zimmer &#38; Benjamin Wallfisch</string>
+			<key>Sort Name</key><string>Joi</string>
+			<key>Persistent ID</key><string>2AE39C444806A910</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Apple Music</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Blade Runner</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>40182</integer>
+			<key>Playlist Persistent ID</key><string>7511DFDE84828CCC</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>22562</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22564</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22586</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22742</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>22748</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

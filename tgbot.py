@@ -17,8 +17,9 @@ bot.
 import logging
 import os
 import sys
-import plistlib as pl
+import utils
 
+from pathlib import Path
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove, Update
 from telegram.ext import (
     Application,
@@ -38,14 +39,6 @@ logger = logging.getLogger(__name__)
 SPOTIFY_AUTH, APPLE_LIBRARY = range(2)
 
 
-def parse_library(filename):
-    with open(filename, 'rb') as fp:
-        a_music = pl.load(fp)
-    logger.info('Tracks Count: ' + str(len(a_music['Tracks'])))
-
-    return a_music
-
-
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     """Starts the conversation and asks the user about their gender."""
 
@@ -61,10 +54,10 @@ async def test_library(update: Update, context: ContextTypes.DEFAULT_TYPE) -> in
     """Stores the photo and asks for a location."""
     user = update.message.from_user
     plist_file = await update.message.document.get_file()
-    file_name = "in/" + str(user.id) + ".xml"
+    file_name = ".data/in/" + str(user.id) + ".xml"
     await plist_file.download(file_name)
     logger.info("File of %s: %s", user.first_name, file_name)
-    a_music = parse_library(file_name)
+    a_music = utils.parse_library(file_name)
     tracks_count = len(a_music['Tracks'])
     await update.message.reply_text(
         "Saved the file!\n" +
@@ -99,6 +92,8 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 
 def main() -> None:
     """Run the bot."""
+    Path(".data/in").mkdir(parents=True, exist_ok=True)
+
     # Create the Application and pass it your bot's token.
     bot_token = os.getenv('BOT_TOKEN')
     application = Application.builder().token(bot_token).build()
@@ -108,7 +103,7 @@ def main() -> None:
         entry_points=[CommandHandler("start", start)],
         states={
             APPLE_LIBRARY: [MessageHandler(filters.Document.FileExtension("xml"), test_library), CommandHandler("skip", skip_photo)],
-            SPOTIFY_AUTH: [MessageHandler()]
+            #SPOTIFY_AUTH: [MessageHandler()]
         },
         fallbacks=[CommandHandler("cancel", cancel)],
     )
